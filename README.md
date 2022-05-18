@@ -25,9 +25,9 @@ Use a system as atomic as possible.
 
 # Installation
 
-Clone the repo
-Run npm i
-Run npm run storybook
+- Clone the repo
+- Run npm i
+- Run npm run storybook
 
 # Run React
 
